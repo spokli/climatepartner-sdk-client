@@ -1,0 +1,17 @@
+{
+    "useTabs": false,
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "avoid",
+    "importOrder": [
+      "^source-map-support/register$",
+      "^(?!@climatepartner/|\\.|/).+",
+      "^@climatepartner/",
+      "^[.|/]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+  }
+  
